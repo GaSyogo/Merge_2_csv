@@ -1,5 +1,5 @@
 添付の
-solubility_ec_norm.csv
+tset.csv
 について，以下の処理を行なってください．
 
 1. U列からAV列には ns_co_*, ns_nc_*
